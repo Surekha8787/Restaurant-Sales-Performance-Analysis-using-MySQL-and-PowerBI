@@ -1,5 +1,11 @@
 # 🍽️ Restaurant Sales Performance Analysis using MYSQL + MICROSOFT POWERBI
 
+<img width="1166" height="797" alt="RESTAURANT PERFORMANCE DASHBOARD HOME PAGE" src="https://github.com/user-attachments/assets/f2a05d69-6758-42f6-b3bf-71e919573554" />
+<img width="1162" height="751" alt="DASHBOARD PAGE 1 " src="https://github.com/user-attachments/assets/8aee17d8-c5f0-49db-9d1a-54122c605761" />
+<img width="1160" height="760" alt="DASHBOARD PAGE 2 ANALYTICS IMAGE" src="https://github.com/user-attachments/assets/ac56d0af-78ad-496a-a2bd-f379dce08751" />
+
+
+
 ## 📊 Project Overview
 
 This project analyzes food delivery and restaurant sales data using **MySQL and Microsoft Power BI**.
@@ -167,30 +173,9 @@ The dashboard provides analysis of:
 
 # 🔄 Project Workflow
 
-```text
-Raw Food Delivery Data
-        ↓
-MySQL Database
-        ↓
-Data Preparation & SQL Operations
-        ↓
-SQL Queries & Business Analysis
-        ↓
-Power BI Data Connection
-        ↓
-Data Modeling
-        ↓
-Power Query / DAX
-        ↓
-Interactive Dashboard
-        ↓
-Business Insights
-```
+<img width="1145" height="1374" alt="restauranrt sales analysis project workflow" src="https://github.com/user-attachments/assets/7b7cf974-f236-4916-a253-21dd1931e0b5" />
 
 ---
-
-<img width="1166" height="797" alt="RESTAURANT PERFORMANCE DASHBOARD HOME PAGE" src="https://github.com/user-attachments/assets/f2a05d69-6758-42f6-b3bf-71e919573554" />
-
 
 
 # 🎯 Project Objectives
