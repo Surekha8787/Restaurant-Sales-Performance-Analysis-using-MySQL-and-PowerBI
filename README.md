@@ -189,6 +189,10 @@ Business Insights
 
 ---
 
+<img width="1166" height="797" alt="RESTAURANT PERFORMANCE DASHBOARD HOME PAGE" src="https://github.com/user-attachments/assets/f2a05d69-6758-42f6-b3bf-71e919573554" />
+
+
+
 # 🎯 Project Objectives
 
 The main objectives of this project are:
