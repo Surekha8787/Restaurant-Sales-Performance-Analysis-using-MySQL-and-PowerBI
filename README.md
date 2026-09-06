@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Sales Performance Analysis
+# 🍽️ Restaurant Sales Performance Analysis using MYSQL + MICROSOFT POWERBI
 
 ## 📊 Project Overview
 
